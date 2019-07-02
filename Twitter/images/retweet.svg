@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon: Retweet</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Twitter-Desktop" transform="translate(-609.000000, -992.000000)" fill="#657786" fill-rule="nonzero">
+            <g id="Middle" transform="translate(455.000000, 492.000000)">
+                <g id="Tweet-1" transform="translate(3.000000, 69.000000)">
+                    <g id="Actions" transform="translate(74.000000, 430.000000)">
+                        <g id="Retweet" transform="translate(77.000000, 0.000000)">
+                            <path d="M3.37628835,3.09002083 L0.752576695,6.08854843 L0,5.43004383 L3.87628835,1 L7.75257669,5.43004383 L7,6.08854843 L4.37628835,3.09002083 L4.37628835,11.2592961 C4.37628835,12.0877233 5.04786122,12.7592961 5.87628835,12.7592961 L11.3762883,12.7592961 L11.3762883,13.7592961 L5.87628835,13.7592961 C4.49557647,13.7592961 3.37628835,12.640008 3.37628835,11.2592961 L3.37628835,3.09002083 Z M16,12.6692753 L18.6237117,9.6707477 L19.3762883,10.3292523 L15.5,14.7592961 L11.6237117,10.3292523 L12.3762883,9.6707477 L15,12.6692753 L15,4.5 C15,3.67157288 14.3284271,3 13.5,3 L8,3 L8,2 L13.5,2 C14.8807119,2 16,3.11928813 16,4.5 L16,12.6692753 Z" id="Icon:-Retweet"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

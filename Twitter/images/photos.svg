@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon: Photos/Videos</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Twitter-Desktop" transform="translate(-175.000000, -964.000000)" stroke="#687A88">
+            <g id="Left-Column" transform="translate(174.000000, 302.000000)">
+                <g id="Photos-+-videos" transform="translate(1.000000, 662.000000)">
+                    <g id="Icon:-Photos/Videos">
+                        <rect id="Rectangle-9" x="0.5" y="0.5" width="14" height="14" rx="2"></rect>
+                        <path d="M1,12 C2.09763107,10.9023689 3.19526215,9.80473785 4.29289322,8.70710678 C4.68341751,8.31658249 5.31658249,8.31658249 5.70710678,8.70710678 L11,14" id="Path"></path>
+                        <path d="M7,10 L10.184699,6.81530097 C10.5752233,6.42477668 11.2083883,6.42477668 11.5989126,6.81530097 C11.6323721,6.84876046 11.6634145,6.88455265 11.6918058,6.92240775 L14,10" id="Path"></path>
+                        <circle id="Oval" cx="5.5" cy="4.5" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

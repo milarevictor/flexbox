@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon: Notifications</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Twitter-Desktop" transform="translate(-360.000000, -14.000000)" fill="#667580" fill-rule="nonzero">
+            <g id="Header">
+                <g id="Navigation" transform="translate(176.000000, 13.000000)">
+                    <g id="Notifications" transform="translate(184.000000, 1.000000)">
+                        <g id="Icon:-Notifications">
+                            <path d="M13.5,11.4541635 L13.5,6.5 C13.5,3.73857625 11.2614237,1.5 8.5,1.5 C5.73857625,1.5 3.5,3.73857625 3.5,6.5 L3.5,11.4541635 L2.80277564,12.5 L14.1972244,12.5 L13.5,11.4541635 Z M8.5,0 C12.0898509,0 15,2.91014913 15,6.5 L15,11 L17,14 L0,14 L2,11 L2,6.5 C2,2.91014913 4.91014913,0 8.5,0 Z" id="Rectangle-14"></path>
+                            <path d="M4.13508984,13 L12.3649102,13 C12.4549701,13.030669 12.5,13.1140023 12.5,13.25 C12.5,15.5972102 10.5972102,17.5 8.25,17.5 C5.90278981,17.5 4,15.5972102 4,13.25 C4,13.1140023 4.04502995,13.030669 4.13508984,13 Z M8.25,16 C9.68451064,16 10.8624821,14.901625 10.9887892,13.5 L5.51121075,13.5 C5.63751795,14.901625 6.81548936,16 8.25,16 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

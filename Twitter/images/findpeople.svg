@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon: People</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Twitter-Desktop" transform="translate(-1070.000000, -820.000000)" stroke="#1DA1F2">
+            <g id="Right-column" transform="translate(1056.000000, 492.000000)">
+                <g id="Who-to-follow">
+                    <g id="Icon:-People" transform="translate(14.000000, 328.000000)">
+                        <path d="M7.2591,3.0643 C7.2591,4.8223 6.6551,5.6683 4.9421,5.6683 C3.2291,5.6683 2.6241,4.7833 2.6241,3.0643 C2.6241,1.5923 3.7181,0.5003 4.9421,0.5003 C6.1651,0.5003 7.2591,1.5923 7.2591,3.0643 Z" id="Stroke-1"></path>
+                        <path d="M1.5491,11.5311 C0.8091,11.5311 0.3011,10.7771 0.5751,10.0851 C1.2221,8.4511 2.9331,7.2831 4.9421,7.2831 C6.9501,7.2831 8.6611,8.4511 9.3081,10.0851 C9.5821,10.7771 9.0741,11.5311 8.3341,11.5311 L1.5491,11.5311 Z" id="Stroke-3"></path>
+                        <path d="M13.2591,3.0643 C13.2591,4.8223 12.6551,5.6683 10.9421,5.6683 C9.2291,5.6683 8.6241,4.7833 8.6241,3.0643 C8.6241,1.5923 9.7181,0.5003 10.9421,0.5003 C12.1651,0.5003 13.2591,1.5923 13.2591,3.0643 Z" id="Stroke-5"></path>
+                        <path d="M8.3343,11.5311 L14.3343,11.5311 C15.0743,11.5311 15.5823,10.7771 15.3083,10.0851 C14.6613,8.4511 12.9503,7.2831 10.9413,7.2831 C9.7943,7.2831 8.7523,7.6731 7.9413,8.3041" id="Stroke-7"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

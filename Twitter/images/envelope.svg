@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon: Envelope</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Twitter-Desktop" transform="translate(-771.000000, -992.000000)">
+            <g id="Middle" transform="translate(455.000000, 492.000000)">
+                <g id="Tweet-1" transform="translate(3.000000, 69.000000)">
+                    <g id="Actions" transform="translate(74.000000, 430.000000)">
+                        <g id="Icon:-Envelope" transform="translate(239.000000, 1.000000)">
+                            <rect id="Rectangle-8" stroke="#667580" x="0.5" y="0.5" width="14" height="13" rx="3"></rect>
+                            <path d="M0.722649902,3.41602515 L6.30662475,7.13867505 C6.66002789,7.37427714 7.07526229,7.5 7.5,7.5 C7.92473771,7.5 8.33997211,7.37427714 8.69337525,7.13867505 L14.2773501,3.41602515 L13.7226499,2.58397485 L8.13867505,6.30662475 C7.94953943,6.43271517 7.72731272,6.5 7.5,6.5 C7.27268728,6.5 7.05046057,6.43271517 6.86132495,6.30662475 L1.2773501,2.58397485 L0.722649902,3.41602515 Z" id="Path-4" fill="#667580" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

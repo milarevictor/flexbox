@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="12px" viewBox="0 0 11 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon: Pinned</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Twitter-Desktop" transform="translate(-505.000000, -551.000000)" fill="#0072BB">
+            <g id="Middle" transform="translate(455.000000, 492.000000)">
+                <path d="M52,59 L59,59 L58,61 C57.7216254,62.4432509 57.7216254,63.4432509 58,64 C58.2783746,64.5567491 58.6117079,64.8900825 59,65 L61,67 L58,67 L57,68.009082 L56,71 L55,71 L54,68.009082 L53,67 L50,67 L52,65 C52.5853876,64.5203388 52.9187209,64.1870054 53,64 C53.0812791,63.8129946 53.0812791,62.8129946 53,61 L52,59 Z" id="Icon:-Pinned"></path>
+            </g>
+        </g>
+    </g>
+</svg>

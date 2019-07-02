@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="14px" viewBox="0 0 17 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon: Messages</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Twitter-Desktop" transform="translate(-483.000000, -16.000000)" fill="#667580" fill-rule="nonzero">
+            <g id="Header">
+                <g id="Navigation" transform="translate(176.000000, 13.000000)">
+                    <g id="Messages" transform="translate(307.000000, 1.000000)">
+                        <g id="Icon:-Messages" transform="translate(0.000000, 2.000000)">
+                            <path d="M2,1.5 C1.72385763,1.5 1.5,1.72385763 1.5,2 L1.5,12 C1.5,12.2761424 1.72385763,12.5 2,12.5 L15,12.5 C15.2761424,12.5 15.5,12.2761424 15.5,12 L15.5,2 C15.5,1.72385763 15.2761424,1.5 15,1.5 L2,1.5 Z M2,-6.21724894e-15 L15,-6.21724894e-15 C16.1045695,-6.21724894e-15 17,0.8954305 17,2 L17,12 C17,13.1045695 16.1045695,14 15,14 L2,14 C0.8954305,14 0,13.1045695 0,12 L0,2 C0,0.8954305 0.8954305,-6.21724894e-15 2,-6.21724894e-15 Z" id="Rectangle-13"></path>
+                            <path d="M1,2.17130321 L7.2506099,7.17179114 C8.25496119,7.97527217 9.68208138,7.97527217 10.6864327,7.17179114 L16.9370426,2.17130321 L16,1 L9.7493901,6.00048792 C9.29286678,6.36570657 8.64417579,6.36570657 8.18765248,6.00048792 L1.93704257,1 L1,2.17130321 Z" id="Path-3"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
